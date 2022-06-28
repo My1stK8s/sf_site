@@ -1,2 +1,2 @@
-#/bin/bash
+#!/bin/bash
 alias java = echo 'Exception in thread "main" java.lang.NullPointerException.'
